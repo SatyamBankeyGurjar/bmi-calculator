@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+In this i have create a good looking ui and change according to User status,
 
 ## Getting Started
 
